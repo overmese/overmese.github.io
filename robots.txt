@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://overmese.github.io/sitemap
+Sitemap: https://overmese.github.io/app/sitemap
+Sitemap: https://overmese.github.io/assets/sitemap
+Sitemap: https://overmese.github.io/css/sitemap
+Sitemap: https://overmese.github.io/includes/sitemap
+Sitemap: https://overmese.github.io/item/sitemap
+Sitemap: https://overmese.github.io/src/sitemap
